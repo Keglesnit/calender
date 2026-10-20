@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:6661625c2f20a101@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261014T101500
 DTEND;TZID=Europe/Berlin:20261014T120000
 SUMMARY:p-adic reductive groups (Fintzen)
@@ -44,7 +44,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bf0465a66f2904bf@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261022T160000
 DTEND;TZID=Europe/Berlin:20261022T180000
 SUMMARY:Shtuka seminar
@@ -64,7 +64,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:32e7ccfc6198046d@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261019T160000
 DTEND;TZID=Europe/Berlin:20261019T180000
 SUMMARY:THH/TC reading group (?)
@@ -83,7 +83,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:29a8b432a363071a@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261013T161500
 DTEND;TZID=Europe/Berlin:20261013T180000
 SUMMARY:Markov processes (Eberle)
@@ -103,7 +103,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:b73febdc7b72cdd8@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261016T101500
 DTEND;TZID=Europe/Berlin:20261016T120000
 SUMMARY:Markov processes (Eberle)
@@ -122,7 +122,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2370d9e10815941a@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261014T101500
 DTEND;TZID=Europe/Berlin:20261014T114500
 SUMMARY:Mirror symmetry seminar (Cote)
@@ -143,7 +143,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:8a21a5faddcee613@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261012T181500
 DTEND;TZID=Europe/Berlin:20261012T200000
 SUMMARY:Rigid analytic geometry II (Franke)
@@ -161,7 +161,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f6055949bc082e16@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261019T121500
 DTEND;TZID=Europe/Berlin:20261019T140000
 SUMMARY:Rigid analytic geometry II exercises
@@ -178,7 +178,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:17f7a54e5470adc5@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261015T181500
 DTEND;TZID=Europe/Berlin:20261015T200000
 SUMMARY:Rigid analytic geometry II (Franke)
@@ -196,7 +196,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:7809fd6e2ed85baf@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261012T081500
 DTEND;TZID=Europe/Berlin:20261012T100000
 SUMMARY:Perverse sheaves (Padurariu)
@@ -214,7 +214,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:69a2441d724af927@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261013T081500
 DTEND;TZID=Europe/Berlin:20261013T100000
 SUMMARY:Perverse sheaves (Padurariu)
@@ -232,7 +232,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ef8d80a61856a7c7@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261012T141500
 DTEND;TZID=Europe/Berlin:20261012T160000
 SUMMARY:Local systems (Lam)
@@ -250,7 +250,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2435842ed6cdf725@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261016T100000
 DTEND;TZID=Europe/Berlin:20261016T120000
 SUMMARY:Ring stacks seminar: Talk 0 Motivation
@@ -263,7 +263,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:799d1c79e0bba174@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261120T100000
 DTEND;TZID=Europe/Berlin:20261120T120000
 SUMMARY:Ring stacks seminar: Affine stacks I (Ong)
@@ -276,7 +276,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:850aec21fc3a4d9b@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261127T100000
 DTEND;TZID=Europe/Berlin:20261127T120000
 SUMMARY:Ring stacks seminar: Affine stacks II (Stroe)
@@ -289,7 +289,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:67eeec2ccbc47d21@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261204T100000
 DTEND;TZID=Europe/Berlin:20261204T120000
 SUMMARY:Ring stacks seminar: Prismatization (Niezhenskyi)
@@ -302,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:da28bbe4ff55a7db@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261211T100000
 DTEND;TZID=Europe/Berlin:20261211T120000
 SUMMARY:Ring stacks seminar: W-module schemes (Piessevaux)
@@ -315,7 +315,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:9158c513af656bc3@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261218T100000
 DTEND;TZID=Europe/Berlin:20261218T120000
 SUMMARY:Ring stacks seminar: Syntomification I (Chen)
@@ -328,7 +328,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5a2fd1805c310e2b@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20270108T100000
 DTEND;TZID=Europe/Berlin:20270108T120000
 SUMMARY:Ring stacks seminar: Divided powers and descent (Sbandati)
@@ -341,7 +341,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20c61eb705b143f1@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20270115T100000
 DTEND;TZID=Europe/Berlin:20270115T120000
 SUMMARY:Ring stacks seminar: Syntomification II (Wagner)
@@ -354,7 +354,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5ae4866b589cf2dc@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20270122T100000
 DTEND;TZID=Europe/Berlin:20270122T120000
 SUMMARY:Ring stacks seminar: de Rham and etale (Pawig)
@@ -367,7 +367,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:228a3c468d16027c@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20270129T100000
 DTEND;TZID=Europe/Berlin:20270129T120000
 SUMMARY:Ring stacks seminar: Betti cohomology
@@ -380,7 +380,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2dd1985cbfd1c74e@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20270114T160000
 DTEND;TZID=Europe/Berlin:20270114T180000
 SUMMARY:MY TALK: Shtuka seminar Talk 10\, Vector bundles and G-torsors on
@@ -403,7 +403,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5d4845389ff5c42c@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Start preparing shtuka Talk 10 (SW20 Lect. 22)
@@ -415,7 +415,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:1ff6bd83ceefb68b@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 SUMMARY:Shtuka Talk 10: notes draft done\, dry run
@@ -427,7 +427,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bf1c4ca36729bd92@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:MY TALK: Chow seminar Talk 7\, Dimension of motives (week of 7 De
@@ -443,7 +443,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ff7011d763ab4060@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Start preparing Chow Talk 7 (MNP13 Ch. 4-5)
@@ -455,28 +455,28 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:5c7eb03aa216a936@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Dies academicus (no lectures)
 END:VEVENT
 BEGIN:VEVENT
 UID:bbc139ece52e3c03@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270107
 SUMMARY:Christmas break (no lectures)
 END:VEVENT
 BEGIN:VEVENT
 UID:dfbf8525980b66b3@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 SUMMARY:Last day of lectures
 END:VEVENT
 BEGIN:VEVENT
 UID:b538ec0ef36805d2@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261013T121500
 DTEND;TZID=Europe/Berlin:20261013T140000
 SUMMARY:Scholze: dream of shtukas over Spec Z
@@ -490,7 +490,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:f10908b8da2f4d7e@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261027T121500
 DTEND;TZID=Europe/Berlin:20261027T140000
 SUMMARY:Scholze: dream of shtukas over Spec Z
@@ -504,7 +504,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:77bbe4c1cde9093a@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261216T101500
 DTEND;TZID=Europe/Berlin:20261216T114500
 SUMMARY:MY TALK: Mirror symmetry Talk 9\, Lagrangian Floer theory (?)
@@ -525,7 +525,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aa97038ae15d6f1e@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Start preparing Mirror symmetry Talk 9 (Auroux Sec. 1)
@@ -537,7 +537,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:db430e705a9a03e9@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261209T114500
 DTEND;TZID=Europe/Berlin:20261209T121500
 SUMMARY:Optional prep meeting with Cote for Talk 9 (right after the semin
@@ -552,7 +552,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3a7c5d2ea563cf49@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Mirror symmetry Talk 9: board dry run\, check timing (80 min)
@@ -563,8 +563,704 @@ TRIGGER:PT540M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:f5eb10342af24c33@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261021T140000
+DTEND;TZID=Europe/Berlin:20261021T160000
+SUMMARY:Read (Mirror Talk 9): Auroux §1.1-1.2 (pp. 1-6)
+DESCRIPTION:Arnold conjecture\; generators\, strips\, Def 1.4\, Thm 1.5\,
+  Rem 1.7. Guide: /mnt/project-files/bonn-semester/prep/mirror-talk-9/read
+ ing-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Auroux §1.1-1.2 (pp. 1-6)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d62ca54c88402be@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261026T100000
+DTEND;TZID=Europe/Berlin:20261026T120000
+SUMMARY:Read (Shtuka Talk 10): Kedlaya\, Notes on isocrystals (Dieudonné
+ -Manin part)
+DESCRIPTION:Slopes\, simple isocrystals\, Newton polygons. Guide step 3. 
+ Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk-10/reading-guide
+ .md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Kedlaya\, Notes on isocrystals (Dieudo
+ nné-Manin part)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9fc86a9514790ff0@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261028T140000
+DTEND;TZID=Europe/Berlin:20261028T160000
+SUMMARY:Read (Mirror Talk 9): McDuff-Salamon: almost complex structures\,
+  energy identity
+DESCRIPTION:Compatible J\, contractibility\, E(u)=∫u*ω. Guide: /mnt/pr
+ oject-files/bonn-semester/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): McDuff-Salamon: almost complex structur
+ es\, energy identity
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:820742904be06e9b@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261030T140000
+DTEND;TZID=Europe/Berlin:20261030T160000
+SUMMARY:Read (Shtuka Talk 10): Kottwitz 1985\, §§1-2
+DESCRIPTION:Isocrystals with G-structure\, σ-conjugacy. Guide step 4 (pa
+ rt 1). Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk-10/readin
+ g-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Kottwitz 1985\, §§1-2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:52c5453e2c4816ae@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261102T100000
+DTEND;TZID=Europe/Berlin:20261102T120000
+SUMMARY:Read (Shtuka Talk 10): Kottwitz 1985\, §§3-4 and 6
+DESCRIPTION:Newton map ν\, basic elements\, J_b. Guide step 4 (part 2). 
+ Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk-10/reading-guide
+ .md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Kottwitz 1985\, §§3-4 and 6
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fe4144472ec052b7@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261104T140000
+DTEND;TZID=Europe/Berlin:20261104T160000
+SUMMARY:Read (Mirror Talk 9): Auroux §1.3\, Z/2 grading
+DESCRIPTION:Grading via orientations\; compute deg(p). Guide: /mnt/projec
+ t-files/bonn-semester/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Auroux §1.3\, Z/2 grading
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9b54977a1b03ab73@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261105T100000
+DTEND;TZID=Europe/Berlin:20261105T120000
+SUMMARY:Read (Shtuka Talk 10): Kottwitz 1997\, §§4-6
+DESCRIPTION:The map κ\, injectivity of (ν\, κ). Guide step 5. Guide: /
+ mnt/project-files/bonn-semester/prep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Kottwitz 1997\, §§4-6
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fce26df2ec359d96@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261109T100000
+DTEND;TZID=Europe/Berlin:20261109T120000
+SUMMARY:Read (Shtuka Talk 10): Kottwitz 1997 (finish) + Rapoport-Richartz
+  §2
+DESCRIPTION:Dominance order used in Cor 22.5.1. Guide steps 5-6. Guide: /
+ mnt/project-files/bonn-semester/prep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Kottwitz 1997 (finish) + Rapoport-Rich
+ artz §2
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7eda66d0a9a0df8d@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261111T140000
+DTEND;TZID=Europe/Berlin:20261111T160000
+SUMMARY:Read (Mirror Talk 9): Auroux §1.4 transversality and compactness
+DESCRIPTION:The three bubbling phenomena\; why exactness kills discs and 
+ spheres. Guide: /mnt/project-files/bonn-semester/prep/mirror-talk-9/readi
+ ng-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Auroux §1.4 transversality and compact
+ ness
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:834b5f9b58e4a1fb@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261112T100000
+DTEND;TZID=Europe/Berlin:20261112T120000
+SUMMARY:Read (Mirror Talk 9): Auroux §1.5\, d²=0 and Ex. 1.11
+DESCRIPTION:Boundary-of-a-1-manifold argument\; the non-example. Guide: /
+ mnt/project-files/bonn-semester/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Auroux §1.5\, d²=0 and Ex. 1.11
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b9711643f03e5a47@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261116T100000
+DTEND;TZID=Europe/Berlin:20261116T120000
+SUMMARY:Read (Chow Talk 7): MNP13 §4.1-4.3 (skim)\, start §4.4
+DESCRIPTION:Schur functors\; then definitions of finite dimensionality. G
+ uide steps 1-2. Guide: /mnt/project-files/bonn-semester/prep/chow-talk-7/
+ reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): MNP13 §4.1-4.3 (skim)\, start §4.4
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f18b30d96829cb34@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261118T140000
+DTEND;TZID=Europe/Berlin:20261118T160000
+SUMMARY:Read (Mirror Talk 9): Auroux §1.6\, Ex. 1.12-1.13
+DESCRIPTION:Floer = Morse for graphs of εdf. Guide: /mnt/project-files/b
+ onn-semester/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Auroux §1.6\, Ex. 1.12-1.13
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7193ba156a096708@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261119T100000
+DTEND;TZID=Europe/Berlin:20261119T120000
+SUMMARY:Read (Chow Talk 7): MNP13 §4.4 closely (finish)
+DESCRIPTION:Even/odd/finite dimensional\, Kimura dimension\, stability. G
+ uide step 2. Guide: /mnt/project-files/bonn-semester/prep/chow-talk-7/rea
+ ding-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): MNP13 §4.4 closely (finish)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c15fd757be2792bc@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261120T140000
+DTEND;TZID=Europe/Berlin:20261120T160000
+SUMMARY:Read (Mirror Talk 9): Auroux Ex. 1.14: T*S¹ computation\, by han
+ d
+DESCRIPTION:Work it out yourself\; the core example of the talk. Guide: /
+ mnt/project-files/bonn-semester/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Auroux Ex. 1.14: T*S¹ computation\, by
+  hand
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:04c7ee0ad377d6f6@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261123T100000
+DTEND;TZID=Europe/Berlin:20261123T120000
+SUMMARY:Read (Chow Talk 7): Kimura 2005\, §§3-6
+DESCRIPTION:Original proofs. Guide step 3. Guide: /mnt/project-files/bonn
+ -semester/prep/chow-talk-7/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): Kimura 2005\, §§3-6
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d8f3c421edabd2b5@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261125T140000
+DTEND;TZID=Europe/Berlin:20261125T160000
+SUMMARY:Read (Mirror Talk 9): de Silva-Robbin-Salamon intro (optional) + 
+ self-check questions
+DESCRIPTION:Index-1 strips on surfaces = bigons. Guide: /mnt/project-file
+ s/bonn-semester/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): de Silva-Robbin-Salamon intro (optional
+ ) + self-check questions
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:612b465b395f6c9c@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261126T100000
+DTEND;TZID=Europe/Berlin:20261126T120000
+SUMMARY:Read (Chow Talk 7): MNP13 §4.6: curves are finite dimensional
+DESCRIPTION:Sym^{2g+1} h^1(C) = 0. Guide step 4. Guide: /mnt/project-file
+ s/bonn-semester/prep/chow-talk-7/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): MNP13 §4.6: curves are finite dimensiona
+ l
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2b5737334a41df2b@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261127T140000
+DTEND;TZID=Europe/Berlin:20261127T160000
+SUMMARY:Read (Chow Talk 7): MNP13 §5.4: surjective morphisms
+DESCRIPTION:h(Y) a summand of h(X). Guide step 5. Guide: /mnt/project-fil
+ es/bonn-semester/prep/chow-talk-7/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): MNP13 §5.4: surjective morphisms
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2dab10fe38afaee8@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261130T100000
+DTEND;TZID=Europe/Berlin:20261130T120000
+SUMMARY:Read (Chow Talk 7): MNP13 §5.6 to Conj. 5.6.9 + André\, Bourbak
+ i 929
+DESCRIPTION:Nilpotence\, Bloch\; motivation. Guide steps 6-7. Guide: /mnt
+ /project-files/bonn-semester/prep/chow-talk-7/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): MNP13 §5.6 to Conj. 5.6.9 + André\, Bou
+ rbaki 929
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d00441b56a7f3050@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261201T100000
+DTEND;TZID=Europe/Berlin:20261201T120000
+SUMMARY:Read (Mirror Talk 9): Write the board plan in full (talk-plan.md)
+DESCRIPTION:Cut to 75 min + reserve. Guide: /mnt/project-files/bonn-semes
+ ter/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Write the board plan in full (talk-plan
+ .md)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0c36d80e46f7f1cd@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261202T100000
+DTEND;TZID=Europe/Berlin:20261202T120000
+SUMMARY:Read (Chow Talk 7): Write talk outline and notes
+DESCRIPTION:Use the 90-minute outline in the guide (§5). Dies academicus
+ \, no lectures. Guide: /mnt/project-files/bonn-semester/prep/chow-talk-7/
+ reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): Write talk outline and notes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d70dc22676adc2d1@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261202T140000
+DTEND;TZID=Europe/Berlin:20261202T160000
+SUMMARY:Read (Mirror Talk 9): Timed run-through of the board plan
+DESCRIPTION:Aim for 80 minutes. Guide: /mnt/project-files/bonn-semester/p
+ rep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Timed run-through of the board plan
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1cc8be861952cae3@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261203T100000
+DTEND;TZID=Europe/Berlin:20261203T120000
+SUMMARY:Read (Chow Talk 7): Dry run + self-check questions
+DESCRIPTION:Guide §6. Guide: /mnt/project-files/bonn-semester/prep/chow-
+ talk-7/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): Dry run + self-check questions
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:224626ad91e02f94@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261204T140000
+DTEND;TZID=Europe/Berlin:20261204T160000
+SUMMARY:Read (Chow Talk 7): Final pass of notes
+DESCRIPTION:Talk is in the week of 7 Dec. Guide: /mnt/project-files/bonn-
+ semester/prep/chow-talk-7/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Chow Talk 7): Final pass of notes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95922a9971ad7e8b@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261207T100000
+DTEND;TZID=Europe/Berlin:20261207T120000
+SUMMARY:Read (Mirror Talk 9): Rehearse\; list questions for Côté
+DESCRIPTION:Prep meeting with Côté on 9 Dec after the seminar. Guide: /
+ mnt/project-files/bonn-semester/prep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Rehearse\; list questions for Côté
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8625869f0afa5c44@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261214T100000
+DTEND;TZID=Europe/Berlin:20261214T120000
+SUMMARY:Read (Mirror Talk 9): Final run-through (80 min)
+DESCRIPTION:Talk on Wed 16 Dec. Guide: /mnt/project-files/bonn-semester/p
+ rep/mirror-talk-9/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Mirror Talk 9): Final run-through (80 min)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d96f2e39258b953@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261217T100000
+DTEND;TZID=Europe/Berlin:20261217T120000
+SUMMARY:Read (Shtuka Talk 10): SW20 §13.5 + appendix to Lecture 19
+DESCRIPTION:Absolute curve\, Thm 13.5.4\; three approaches to G-torsors. 
+ Guide steps 1-2. Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk
+ -10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): SW20 §13.5 + appendix to Lecture 19
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f37fd3c1c1a2d94d@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261218T140000
+DTEND;TZID=Europe/Berlin:20261218T160000
+SUMMARY:Read (Shtuka Talk 10): SW20 Lecture 22\, §§22.1-22.3 (+ KL15 st
+ atements)
+DESCRIPTION:Guide steps 7 and 10. Guide: /mnt/project-files/bonn-semester
+ /prep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): SW20 Lecture 22\, §§22.1-22.3 (+ KL1
+ 5 statements)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:14d47d82ca595d0a@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261221T100000
+DTEND;TZID=Europe/Berlin:20261221T120000
+SUMMARY:Read (Shtuka Talk 10): SW20 Lecture 22\, §§22.4-22.6
+DESCRIPTION:B(G)\, Thm 22.4.3\, relative case. Guide step 7. Guide: /mnt/
+ project-files/bonn-semester/prep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): SW20 Lecture 22\, §§22.4-22.6
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:83ed975a081440a0@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261222T100000
+DTEND;TZID=Europe/Berlin:20261222T120000
+SUMMARY:Read (Shtuka Talk 10): Self-check exercises 1-4\; settle §22.6 s
+ cope
+DESCRIPTION:Ask organisers and Enrico (Talk 11) about §22.6. Guide: /mnt
+ /project-files/bonn-semester/prep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Self-check exercises 1-4\; settle §22
+ .6 scope
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aa77b35f150fe2cc@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261228T100000
+DTEND;TZID=Europe/Berlin:20261228T120000
+SUMMARY:Read (THH Talk 11): Prerequisites: BMS19 §4.4-4.5\, Prop 5.8\, T
+ hm 7.2\, §7.4\, Prop 6.2/6.4 (?)
+DESCRIPTION:Guide §1. Provisional: THH talk date TBD. Guide: /mnt/projec
+ t-files/bonn-semester/prep/thh-talk-11/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): Prerequisites: BMS19 §4.4-4.5\, Prop 5.8
+ \, Thm 7.2\, §7.4\, Prop 6.2/6.4 (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f51b4c013e7d6c5f@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261228T140000
+DTEND;TZID=Europe/Berlin:20261228T160000
+SUMMARY:Read (THH Talk 11): BMS19 §8.1\, Def 8.1-Prop 8.4 (+ Illusie Ch.
+  I §1-3) (?)
+DESCRIPTION:Guide §2 step 1. Guide: /mnt/project-files/bonn-semester/pre
+ p/thh-talk-11/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): BMS19 §8.1\, Def 8.1-Prop 8.4 (+ Illusie
+  Ch. I §1-3) (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b08156cbcda9573c@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261229T100000
+DTEND;TZID=Europe/Berlin:20261229T120000
+SUMMARY:Read (THH Talk 11): BMS19 §8.1.1-8.1.2 (skim)\, start §8.2 (?)
+DESCRIPTION:Guide §2 steps 2-3. Guide: /mnt/project-files/bonn-semester/
+ prep/thh-talk-11/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): BMS19 §8.1.1-8.1.2 (skim)\, start §8.2 
+ (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79ca83c8186e0638@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261229T140000
+DTEND;TZID=Europe/Berlin:20261229T160000
+SUMMARY:Read (THH Talk 11): BMS19 §8.2\, Thm 8.14 (?)
+DESCRIPTION:Derived de Rham-Witt\, A_crys(S). Guide §2 step 3. Guide: /m
+ nt/project-files/bonn-semester/prep/thh-talk-11/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): BMS19 §8.2\, Thm 8.14 (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:058d83bf9825269d@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261230T100000
+DTEND;TZID=Europe/Berlin:20261230T120000
+SUMMARY:Read (THH Talk 11): BMS19 §8.3\, Thm 8.17 (?)
+DESCRIPTION:The heart of the talk. Guide §2 step 4. Guide: /mnt/project-
+ files/bonn-semester/prep/thh-talk-11/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): BMS19 §8.3\, Thm 8.17 (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a7d42308e4ecc30c@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20261230T140000
+DTEND;TZID=Europe/Berlin:20261230T160000
+SUMMARY:Read (THH Talk 11): BMS19 Cor 8.18 and §8.4 (?)
+DESCRIPTION:Guide §2 steps 5-6. Guide: /mnt/project-files/bonn-semester/
+ prep/thh-talk-11/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): BMS19 Cor 8.18 and §8.4 (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:79c58139bd433286@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270104T100000
+DTEND;TZID=Europe/Berlin:20270104T120000
+SUMMARY:Read (Shtuka Talk 10): Fargues 2020 / Anschütz 2019: proof of Th
+ m 22.4.3
+DESCRIPTION:Decide how much to sketch. Guide step 8. Guide: /mnt/project-
+ files/bonn-semester/prep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Fargues 2020 / Anschütz 2019: proof o
+ f Thm 22.4.3
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b430cfd3e9993503@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270104T140000
+DTEND;TZID=Europe/Berlin:20270104T160000
+SUMMARY:Read (Shtuka Talk 10): Fargues / Anschütz (continued)
+DESCRIPTION:Guide step 8. Guide: /mnt/project-files/bonn-semester/prep/sh
+ tuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Fargues / Anschütz (continued)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5a69617202198b@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270105T100000
+DTEND;TZID=Europe/Berlin:20270105T120000
+SUMMARY:Read (Shtuka Talk 10): Fargues-Scholze Ch. III.2-III.4 (skim)
+DESCRIPTION:Motivation and outlook. Guide step 9. Guide: /mnt/project-fil
+ es/bonn-semester/prep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Fargues-Scholze Ch. III.2-III.4 (skim)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8782ad9a638667b9@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270105T140000
+DTEND;TZID=Europe/Berlin:20270105T160000
+SUMMARY:Read (Shtuka Talk 10): Write talk notes / board plan
+DESCRIPTION:Guide §5 outline. Guide: /mnt/project-files/bonn-semester/pr
+ ep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Write talk notes / board plan
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:405bd09f0b3c92eb@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270106T100000
+DTEND;TZID=Europe/Berlin:20270106T120000
+SUMMARY:Read (Shtuka Talk 10): Talk notes (continued)
+DESCRIPTION:Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk-10/r
+ eading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Talk notes (continued)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a14d51253605fc8a@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270107T100000
+DTEND;TZID=Europe/Berlin:20270107T120000
+SUMMARY:Read (Shtuka Talk 10): Finish board plan\, time it
+DESCRIPTION:Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk-10/r
+ eading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Finish board plan\, time it
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0576074e95bf6893@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270108T140000
+DTEND;TZID=Europe/Berlin:20270108T160000
+SUMMARY:Read (Shtuka Talk 10): Self-check exercises 5-8
+DESCRIPTION:Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk-10/r
+ eading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Self-check exercises 5-8
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b1a1207f4caf62f1@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270111T100000
+DTEND;TZID=Europe/Berlin:20270111T120000
+SUMMARY:Read (Shtuka Talk 10): Dry run
+DESCRIPTION:Guide: /mnt/project-files/bonn-semester/prep/shtuka-talk-10/r
+ eading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Dry run
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5030352a141c23@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270112T100000
+DTEND;TZID=Europe/Berlin:20270112T120000
+SUMMARY:Read (Shtuka Talk 10): Final pass of notes
+DESCRIPTION:Talk on Thu 14 Jan. Guide: /mnt/project-files/bonn-semester/p
+ rep/shtuka-talk-10/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (Shtuka Talk 10): Final pass of notes
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d4240abdbe035056@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270115T140000
+DTEND;TZID=Europe/Berlin:20270115T160000
+SUMMARY:Read (THH Talk 11): Talk outline (90 min)\; coordinate with Lewis
+  (Talk 10) (?)
+DESCRIPTION:Guide §4. Provisional: THH date TBD\, assumed around 18 Jan.
+  Guide: /mnt/project-files/bonn-semester/prep/thh-talk-11/reading-guide.m
+ d
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): Talk outline (90 min)\; coordinate with L
+ ewis (Talk 10) (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8c53430d8751a3be@bonn-semester
+DTSTAMP:20261020T151630Z
+DTSTART;TZID=Europe/Berlin:20270118T100000
+DTEND;TZID=Europe/Berlin:20270118T120000
+SUMMARY:Read (THH Talk 11): Dry run (provisional) (?)
+DESCRIPTION:Provisional: move once the THH date is fixed. Guide: /mnt/pro
+ ject-files/bonn-semester/prep/thh-talk-11/reading-guide.md
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Read (THH Talk 11): Dry run (provisional) (?)
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:8d4bfc878ef554a7@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261023T093000
 DTEND;TZID=Europe/Berlin:20261023T100000
 SUMMARY:DUE: Markov processes Sheet 2
@@ -589,7 +1285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ade8bb0f7e518ec1@bonn-semester
-DTSTAMP:20261020T151048Z
+DTSTAMP:20261020T151630Z
 DTSTART;TZID=Europe/Berlin:20261022T093000
 DTEND;TZID=Europe/Berlin:20261022T100000
 SUMMARY:DUE: Rigid analytic geometry II Sheet 1 (email to tutor)
